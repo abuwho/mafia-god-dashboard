@@ -1,0 +1,5 @@
+/venv
+.vscode
+/build
+mafia-god-dashboard.spec
+/__pycache__
