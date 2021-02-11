@@ -1,5 +1,7 @@
 # A dashboard for the Coordinator a.k.a the God
 
+![Dashboard](https://i.ibb.co/RNqBtFx/Capture.jpg "Dashboard")
+
 # How to play Mafia
 
 ## THERE ARE 2 PHASES IN THE GAME : --
